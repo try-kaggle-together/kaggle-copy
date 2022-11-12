@@ -1,2 +1,2 @@
 # kaggle-copy
-https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+커리큘럼: https://kaggle-kr.tistory.com/32
